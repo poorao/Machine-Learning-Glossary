@@ -1,0 +1,74 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "machine learning glossary",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "random",
+                    "slots": [],
+                    "samples": [
+                        "tell me a new machine learning term",
+                        "give an example of a machine learning concept",
+                        "give an example of a machine learning term",
+                        "tell me about a machine learning concept",
+                        "tell me about a machine learning term",
+                        "surprise me with a random machine learning term",
+                        "tell me the definition of a random machine learning term",
+                        "tell me the meaning of a random machine learning term",
+                        "tell me a random machine learning term",
+                        "define a random machine learning term",
+                        "define a random term",
+                        "tell me a random term",
+                        "new term",
+                        "sample definition",
+                        "sample term",
+                        "random term",
+                        "random definition"
+                    ]
+                },
+                {
+                    "name": "define",
+                    "slots": [
+                        {
+                            "name": "term",
+                            "type": "AMAZON.SearchQuery"
+                        }
+                    ],
+                    "samples": [
+                        "what is the definition of machine learning term {term}",
+                        "what is the meaning of machine learning term {term}",
+                        "tell me the meaning of {term} in machine learning",
+                        "what is the meaning of {term} in machine learning",
+                        "what is {term} in machine learning",
+                        "define {term} in machine learning",
+                        "define {term} with an example",
+                        "what is {term}",
+                        "definition of {term}",
+                        "meaning of {term}",
+                        "tell me the meaning of {term}",
+                        "tell the meaning of {term}",
+                        "what is the meaning of {term}",
+                        "the definition of {term}",
+                        "the meaning of {term}",
+                        "what does {term} mean",
+                        "what do you mean by {term}",
+                        "define {term}"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
