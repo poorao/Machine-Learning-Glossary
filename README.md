@@ -9,7 +9,7 @@ Use this skill to build your Machine Learning vocabulary. Ask for the definition
 Enable the skill at the Amazon Alexa store. It is available in IN, US, UK and AUS stores
 
 ## How to use
-Open the skill with the invocation name - 'Alexa, Open Machine Learning Glossary'
+Open the skill with the invocation name - #### 'Alexa, Open Machine Learning Glossary'
 
 ### Utterances to try
 * Define accuracy.
@@ -21,11 +21,11 @@ Open the skill with the invocation name - 'Alexa, Open Machine Learning Glossary
 'Alexa, ask Machine Learning Glossary to define cross validation'
 
 ## To-do 
-[X] Include over 200 terms
-[X] Implement random term
-[X] Implement CanFulFillIntentRequest
-[ ] Include a trivial quiz to check the understanding of the user
-[ ] Include more terms
+-[X] Include over 200 terms
+-[X] Implement random term
+-[X] Implement CanFulFillIntentRequest
+-[ ] Include a trivial quiz to check the understanding of the user
+-[ ] Include more terms
 
 A blog accompanying the skill can be found [here](https://medium.com/@poojarao126/alexa-what-is-machine-learning-35d2351ae559).
 
