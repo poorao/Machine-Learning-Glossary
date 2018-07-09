@@ -24,6 +24,7 @@ Open the skill with the invocation name - **'Alexa, Open Machine Learning Glossa
 - [X] Include over 200 terms
 - [X] Implement random term
 - [X] Implement CanFulFillIntentRequest
+- [ ] Better recognition of search terms
 - [ ] Include a trivial quiz to check the understanding of the user
 - [ ] Include more terms
 
